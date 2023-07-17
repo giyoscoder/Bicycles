@@ -1,0 +1,9 @@
+export {default as showcase} from './showcase/showcase.png';
+export {default as logo} from './logo/Logo.svg';
+export {default as searchBar} from './icons/search.svg';
+export {default as heart} from './icons/heart-regular.svg';
+export {default as heart_active} from './icons/heart_active.svg';
+export {default as cart} from './icons/cart.svg';
+export {default as cart_active} from './icons/cart_active.svg';
+export {default as user} from './icons/user1.svg';
+export {default as bars} from './icons/bar.png';
