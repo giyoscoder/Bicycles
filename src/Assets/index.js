@@ -7,3 +7,5 @@ export {default as cart} from './icons/cart.svg';
 export {default as cart_active} from './icons/cart_active.svg';
 export {default as user} from './icons/user1.svg';
 export {default as bars} from './icons/bar.png';
+export {default as searchnav} from './icons/searchnav.svg'
+export {default as deleteed} from './icons/delete.svg'

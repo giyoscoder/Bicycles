@@ -7,8 +7,10 @@
 
 .showcase {
     height: 100vh;
+    min-height: 100vh;
     background-image: url('./Assets/showcase/showcase.png');
     background-position:  right center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-clip: border-box;
 }
